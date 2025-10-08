@@ -1,6 +1,6 @@
 # Hi, I'm James Teuscher (**Jtoosh**) 👋
 
-CS student @ Brigham Young University focused on building tools that do real good in the world. So far I've worked in turning study + memory concepts into practical interfaces using React & TypeScript, with Python for  somescripting and logic. Two years supporting BYU Religious Education taught me reliability, clear communication, and user empathy.
+CS student @ Brigham Young University focused on building tools that do real good in the world. So far I've worked in turning study + memory concepts into practical interfaces using React & TypeScript, with Python for some scripting and logic. Two years supporting BYU Religious Education taught me reliability, clear communication, and user empathy.
 
 ---
 
